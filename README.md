@@ -1,4 +1,22 @@
-<h3 align="center">Olá! 👋 I’m Sreelekha.<br>A budding developer with a passion for learning and building cool stuff</h3>
+<h4 align="left">Olá! 👋 I’m Sreelekha.</h4>
+
+###
+
+<h3 align="left">I'm a MERN stack Developer, Technology Enthusiast and a Good buddy.</h3>
+
+###
+
+###
+
+<img align="centre" height="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
+###
+
+<p>🌱 Exploring Blockchain technology right now.<br><br>🚀 Excited to improve and work on cool stuff!<br><br>Let’s build something great! 💡</p>
+
+###
+
+<h3>Connect with me:</h3>
 
 ###
 
@@ -9,17 +27,13 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
-###
 
-<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  /><br>
 
-###
-
-<h4 align="left">I’m 🏊‍♀️ diving into the world 🌎 of coding and loving  ❤️ every step of the journey. Whether it’s experimenting with new  👩‍💻 technologies or working through a tough bug, I’m always eager to 💪 grow and  improve.</h4>
+<h3 align="left">Technology stack:</h3>
 
 ###
 
-<br clear="both"><br>
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -44,11 +58,14 @@
 </div>
 
 ###
+<h3 align="left">Git status:</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreelekhasreenivasan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreelekhasreenivasan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="150" alt="languages graph"  /><br>
-  <img src="https://streak-stats.demolab.com?user=sreelekhasreenivasan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreelekhasreenivasan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreelekhasreenivasan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
+ 
 </div>
 
 ###
